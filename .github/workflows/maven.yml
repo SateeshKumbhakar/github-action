@@ -1,6 +1,5 @@
 
 name: Java Self Practice
-
 on:
   push:
     branches: [ "master" ]
